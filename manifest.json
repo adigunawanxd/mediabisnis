@@ -1,0 +1,31 @@
+{
+  "name": "AdiGunawan.NET",
+  "short_name": "AdiGunawan.NET",
+  "description": "Panduan Internet Marketing, Teknik Digital Marketing, Tips Bisnis Affiliate, Review Bisnis Online, Panduan Bitcoin, Trading Forex dan Investasi Saham",
+  "start_url": "http://www.adigunawan.net",
+  "display": "standalone",
+  "theme_color": "#CC3333",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-Fib-kkdfQBg/XGLuKfDhQLI/AAAAAAAAQuI/QZBVUqp2n3QQ1vgKAwbNOkKrDsvYouuYACLcBGAs/s1600/AdigunawanLogo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-kAdoOibNWZg/XGLuKXv6IbI/AAAAAAAAQuM/kDWTJ46v6pkIzRA1ryAKIB48Sj4FhJXRACLcBGAs/s1600/AdigunawanLogo180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-JiGvaxSz_yQ/XGLuJ7teByI/AAAAAAAAQuE/ZXxefjyWACAhfRRGdJ6t_oSc-6pajLvMACLcBGAs/s1600/AdigunawanLogo144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-RNvWiF6IbDk/XGLuLMAjNcI/AAAAAAAAQuQ/cRxxDkv1k3clbgjDiITYhGxiRazzTl0pwCLcBGAs/s1600/AdigunawanLogo32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#FFFFFF"
+}
