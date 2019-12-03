@@ -1,11 +1,7 @@
 {
-  "name": "SmartPeople.ID",
   "short_name": "SmartPeople",
+  "name": "SmartPeople.ID",
   "description": "Edukasi Bisnis dan Investasi Terlengkap. Berbagi Panduan Internet Marketing, Digital Marketing, Bisnis Affiliate, Cryptocurrency Bitcoin, Forex, Saham",
-  "start_url": "https://www.smartpeople.id/",
-  "display": "standalone",
-  "theme_color": "#CC3333",
-  "background_color": "#FFFFFF",
   "icons": [
     {
       "src": "https://4.bp.blogspot.com/-RNvWiF6IbDk/XGLuLMAjNcI/AAAAAAAAQuQ/cRxxDkv1k3clbgjDiITYhGxiRazzTl0pwCLcBGAs/s1600/AdigunawanLogo32.png",
@@ -52,5 +48,10 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "start_url": "https://www.smartpeople.id/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#CC3333"
 }
