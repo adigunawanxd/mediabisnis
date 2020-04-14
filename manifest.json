@@ -1,7 +1,7 @@
 {
-  "short_name": "SmartPeople",
-  "name": "SmartPeople.ID",
-  "description": "Edukasi Bisnis dan Investasi Terlengkap. Berbagi Panduan Internet Marketing, Digital Marketing, Bisnis Affiliate, Cryptocurrency Bitcoin, Forex, Saham",
+  "short_name": "Mediabisnis",
+  "name": "Mediabisnis.co.id",
+  "description": "Portal Edukasi Bisnis dan Investasi. Belajar Internet Marketing, Pemasaran Digital, Bisnis Online, Mata Uang Digital, Trading Forex dan Saham",
   "icons": [
     {
       "src": "https://4.bp.blogspot.com/-RNvWiF6IbDk/XGLuLMAjNcI/AAAAAAAAQuQ/cRxxDkv1k3clbgjDiITYhGxiRazzTl0pwCLcBGAs/s1600/AdigunawanLogo32.png",
@@ -49,7 +49,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://www.smartpeople.id/",
+  "start_url": "https://www.mediabisnis.co.id/",
   "background_color": "#FFFFFF",
   "display": "standalone",
   "scope": "/",
