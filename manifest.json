@@ -1,66 +1,78 @@
 {
-  "short_name": "Media Bisnis",
-  "name": "Mediabisnis.co.id",
-  "description": "Portal Edukasi Bisnis dan Investasi. Belajar Internet Marketing, Pemasaran Digital, Bisnis Online, Mata Uang Digital, Trading Forex dan Saham",
+  "short_name": "Kincai Media",
+  "name": "Blog Kincaimedia.net",
+  "description": "Portal Edukasi Bisnis dan Investasi. Berbagi Panduan Bisnis Online, Afiliasi, Pemasaran Digital, Investasi Saham, Forex, dan Cryptocurrency Bitcoin",
   "icons": [
     {
-      "src": "https://4.bp.blogspot.com/-RNvWiF6IbDk/XGLuLMAjNcI/AAAAAAAAQuQ/cRxxDkv1k3clbgjDiITYhGxiRazzTl0pwCLcBGAs/s1600/AdigunawanLogo32.png",
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia32.png",
       "sizes": "32x32",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-UzLOwSQrvlk/XHfuTX-nFxI/AAAAAAAAQy8/zZx_KUm7nOAQylPnThVecl9ctt8u4kdTACLcBGAs/s1600/AdigunawanLogo48.png",
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia48.png",
       "sizes": "48x48",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://3.bp.blogspot.com/-T03sCp2_BGQ/XHfuTc2mu7I/AAAAAAAAQy0/hPuN4-4nUV0ViyfT-MuJXuRPYlKINjCjACLcBGAs/s1600/AdigunawanLogo72.png",
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia72.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://3.bp.blogspot.com/-Y-jS-S8nMQ4/XHfuTY9V2XI/AAAAAAAAQy4/sXgR1azyr3k2R_9UMz8li2QUbUwjJg9jwCLcBGAs/s1600/AdigunawanLogo96.png",
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia96.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://2.bp.blogspot.com/-JiGvaxSz_yQ/XGLuJ7teByI/AAAAAAAAQuE/ZXxefjyWACAhfRRGdJ6t_oSc-6pajLvMACLcBGAs/s1600/AdigunawanLogo144.png",
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://4.bp.blogspot.com/-qMkuVDlnMpU/XHfufDi-ddI/AAAAAAAAQzA/-fYJmg9d6y4hFTfBaelbhfcpFcPszn4OwCLcBGAs/s1600/AdigunawanLogo168.png",
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia168.png",
       "sizes": "168x168",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://2.bp.blogspot.com/-kAdoOibNWZg/XGLuKXv6IbI/AAAAAAAAQuM/kDWTJ46v6pkIzRA1ryAKIB48Sj4FhJXRACLcBGAs/s1600/AdigunawanLogo180.png",
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia180.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-Fib-kkdfQBg/XGLuKfDhQLI/AAAAAAAAQuI/QZBVUqp2n3QQ1vgKAwbNOkKrDsvYouuYACLcBGAs/s1600/AdigunawanLogo192.png",
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-l0gWPjXa1uk/XHfuoM0Lj3I/AAAAAAAAQzM/fQl9i6wMUm07ngZv12POFZnaUg-gVxXUgCLcBGAs/s1600/AdigunawanLogo512.png",
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia512.png",
       "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://kincaimedia.net/assets/images/kincaimedia/kincaimedia690.png",
+      "sizes": "690x690",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "start_url": "https://www.mediabisnis.co.id/",
-  "background_color": "#FFFFFF",
-  "display": "standalone",
   "scope": "/",
-  "theme_color": "#CC3333"
+  "start_url": "https://blog.kincaimedia.net/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#0d8bf2"
 }
