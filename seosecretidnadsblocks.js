@@ -25,5 +25,5 @@
 		window.adblock = !0
 	};
 	var e = document.getElementsByTagName("script")[0];
-	e.parentNode.insertBefore(b, e)
+	e.parentNode.insertBefore(b, e);
 }();
